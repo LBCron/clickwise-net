@@ -1,4 +1,4 @@
-# clickwise-net
+# Clickwise
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,171 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-clickwise-net is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://clickwise.net/
+Clickwise is a pay-per-sale affiliate network that matches publishers, creators and apps with affiliate programs that fit their niche and gives them tracked links, while brands pay only when a sale is confirmed, with no exclusivity or upfront fees. Programs are run by SOFT DEV FZ LLC and AFVENTURES NETWORK S.L. For developers it publishes a Publisher API (OpenAPI 3.1), a Postman collection, a remote MCP server with OAuth for AI agents, llms.txt, quickstarts and a HasOffers-compatible endpoint.
+
+**Areas:** Company · Affiliate Marketing · Affiliate Network · Performance Marketing · Tracked Links · Publishers · E-Commerce · MCP
+
+## Clickwise on APIs.io
+
+Everything profiled for Clickwise is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/clickwise-net/](https://apis.io/providers/clickwise-net/)** — or go straight to one of the APIs or properties below.
+
+### APIs (15)
+
+- [Clickwise Account API](https://apis.io/apis/clickwise-net/clickwise-net-account-api/) — The Account API from Clickwise — 2 operation(s) for account.
+- [Clickwise Deals API](https://apis.io/apis/clickwise-net/clickwise-net-deals-api/) — The deals API from Clickwise — 2 operation(s) for deals.
+- [Clickwise Feeds API](https://apis.io/apis/clickwise-net/clickwise-net-feeds-api/) — The feeds API from Clickwise — 1 operation(s) for feeds.
+- [Clickwise Links API](https://apis.io/apis/clickwise-net/clickwise-net-links-api/) — The Links API from Clickwise — 2 operation(s) for links.
+- [Clickwise Monetize API](https://apis.io/apis/clickwise-net/clickwise-net-monetize-api/) — The monetize API from Clickwise — 8 operation(s) for monetize.
+- [Clickwise News API](https://apis.io/apis/clickwise-net/clickwise-net-news-api/) — The news API from Clickwise — 2 operation(s) for news.
+- [Clickwise Offers API](https://apis.io/apis/clickwise-net/clickwise-net-offers-api/) — The Offers API from Clickwise — 2 operation(s) for offers.
+- [Clickwise Onboarding API](https://apis.io/apis/clickwise-net/clickwise-net-onboarding-api/) — The onboarding API from Clickwise — 9 operation(s) for onboarding.
+- [Clickwise Postbacks API](https://apis.io/apis/clickwise-net/clickwise-net-postbacks-api/) — The Postbacks API from Clickwise — 4 operation(s) for postbacks.
+- [Clickwise Products API](https://apis.io/apis/clickwise-net/clickwise-net-products-api/) — The Products API from Clickwise — 2 operation(s) for products.
+- [Clickwise Programs API](https://apis.io/apis/clickwise-net/clickwise-net-programs-api/) — The Programs API from Clickwise — 4 operation(s) for programs.
+- [Clickwise Public API](https://apis.io/apis/clickwise-net/clickwise-net-public-api/) — The public API from Clickwise — 2 operation(s) for public.
+- [Clickwise Reporting API](https://apis.io/apis/clickwise-net/clickwise-net-reporting-api/) — The Reporting API from Clickwise — 3 operation(s) for reporting.
+- [Clickwise Subscribers API](https://apis.io/apis/clickwise-net/clickwise-net-subscribers-api/) — The subscribers API from Clickwise — 3 operation(s) for subscribers.
+- [Clickwise Widgets API](https://apis.io/apis/clickwise-net/clickwise-net-widgets-api/) — The widgets API from Clickwise — 3 operation(s) for widgets.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### AsyncAPI (1)
+
+Event-driven and webhook contracts.
+
+- [Clickwise Net Webhooks](https://apis.io/asyncapis/clickwise-net/clickwise-net-webhooks/)
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Clickwise Net Agentic Access](https://apis.io/agentic-access/clickwise-net/clickwise-net-agentic-access/)
+
+#### JSON Schema (9)
+
+The data models the API reads and writes.
+
+- [AffiliateOnboardingStartRequest](https://apis.io/schemas/clickwise-net/clickwise-net-affiliate-onboarding-start-request/)
+- [Conversion](https://apis.io/schemas/clickwise-net/clickwise-net-conversion/)
+- [Link](https://apis.io/schemas/clickwise-net/clickwise-net-link/)
+- [LinkBatchResult](https://apis.io/schemas/clickwise-net/clickwise-net-link-batch-result/)
+- [Me](https://apis.io/schemas/clickwise-net/clickwise-net-me/)
+- [MerchantOnboardingStartRequest](https://apis.io/schemas/clickwise-net/clickwise-net-merchant-onboarding-start-request/)
+- [PostbackConfig](https://apis.io/schemas/clickwise-net/clickwise-net-postback-config/)
+- [ProductPage](https://apis.io/schemas/clickwise-net/clickwise-net-product-page/)
+- [Program](https://apis.io/schemas/clickwise-net/clickwise-net-program/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Clickwise Net Context](https://apis.io/jsonld/clickwise-net/clickwise-net-context/)
+
+#### Overlays (2)
+
+OpenAPI overlays, including conversational phrasing for each operation.
+
+- [Clickwise Net Panel Overlay](https://apis.io/overlays/clickwise-net/clickwise-net-panel-overlay/)
+- [Clickwise Net Publisher Overlay](https://apis.io/overlays/clickwise-net/clickwise-net-publisher-overlay/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Clickwise API Rules](https://apis.io/rules/clickwise-net/clickwise-net-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Clickwise Net Authentication](https://apis.io/security/clickwise-net/clickwise-net-authentication/)
+- [Clickwise Net Domain Security](https://apis.io/security/clickwise-net/clickwise-net-domain-security/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Clickwise Net Scopes](https://apis.io/scopes/clickwise-net/clickwise-net-scopes/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Clickwise Net Plans Pricing](https://apis.io/plans/clickwise-net/clickwise-net-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Clickwise Net Rate Limits](https://apis.io/rate-limits/clickwise-net/clickwise-net-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://partners.clickwise.net/)
+- [Documentation](https://partners.clickwise.net/developers/)
+- [Getting started](https://partners.clickwise.net/developers/trackers)
+- [API reference](https://partners.clickwise.net/llms.txt)
+- [Blog](https://partners.clickwise.net/en/news/)
+- [Terms of service](https://partners.clickwise.net/en/publisher-terms/)
+- [Privacy policy](https://partners.clickwise.net/en/privacy/)
+- [GitHub](https://github.com/softdevfz)
+
+## API Evangelist rating
+
+**Kin Score 57.2** — strong · rubric 0.26.0 · scored 2026-11-07
+
+| Facet | Score |
+|---|---|
+| Discoverability | 70.0 |
+| Contract quality | 70.7 |
+| Contract governance | 35.6 |
+| Operational transparency | 50.0 |
+| Developer ergonomics | 58.9 |
+| Access clarity | 38.2 |
+
+**Agent readiness 56.8** — agent-native
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | derived (partial credit) |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | verified |
+| Error Semantics | documented (partial credit) |
+| OpenAPI Examples | partial |
+| Rate Limit Signal | verified |
+| Event Surface Described | yes |
+| Agent Skills | derived (partial credit) |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | — |
+| Operation Distinctiveness | mostly (partial credit) |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 30.4** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/clickwise-net/](https://apis.io/providers/clickwise-net/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Clickwise: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/clickwise-net/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
